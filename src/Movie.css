@@ -1,0 +1,10 @@
+.genres {
+  width: 100%;
+  padding: 0;
+}
+
+.genres__genre {
+  display: inline-block;
+  font-size: small;
+  padding-right: 5px;
+}
